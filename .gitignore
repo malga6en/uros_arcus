@@ -1,0 +1,36 @@
+# STM32CubeIDE / STM32CubeMX
+*.ioc
+*.launch
+*.log
+*.swp
+*.bak
+*.tmp
+*.uvopt*
+*.uvgui*
+*.uvproj*
+*.dep
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.sublime-*
+*.cproject
+*.project
+.settings/
+
+# Build
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Misc
+*.zip
+*.tar
+*.gz
